@@ -1,0 +1,8 @@
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\bin\Debug\CheckOutlookEmailDemo.exe.config
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\bin\Debug\CheckOutlookEmailDemo.exe
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\bin\Debug\CheckOutlookEmailDemo.pdb
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\obj\Debug\CheckOutlookEmailDemo.csprojAssemblyReference.cache
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\obj\Debug\CheckOutlookEmailDemo.csproj.ResolveComReference.cache
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\obj\Debug\CheckOutlookEmailDemo.csproj.CoreCompileInputs.cache
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\obj\Debug\CheckOutlookEmailDemo.exe
+E:\Logiciel\Visual Studio 2019\VS 2019 Projects\CheckOutlookEmailDemo\CheckOutlookEmailDemo\obj\Debug\CheckOutlookEmailDemo.pdb
